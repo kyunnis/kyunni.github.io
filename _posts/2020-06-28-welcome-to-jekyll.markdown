@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "첫 포스팅!! 성공!!"
+title:  "First Posting"
 date:   2020-06-28 15:52:51 +0900
 categories: jekyll update
 ---
