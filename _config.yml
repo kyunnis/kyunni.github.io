@@ -30,7 +30,7 @@ url: "https://kyunnis.github.io/kyunni-tech-blog/" # the base hostname & protoco
 github_username:  jekyll
 
 # Build settings
-#theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
