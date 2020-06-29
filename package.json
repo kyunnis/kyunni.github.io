@@ -1,0 +1,27 @@
+{
+  "name": "kyunni-tech-blog",
+  "version": "1.0.0",
+  "description": "kyunni 기술 블로그",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^4.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyunnis/kyunni-tech-blog.git"
+  },
+  "author": "kyunni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyunnis/kyunni-tech-blog/issues"
+  },
+  "homepage": "https://github.com/kyunnis/kyunni-tech-blog#readme"
+}
