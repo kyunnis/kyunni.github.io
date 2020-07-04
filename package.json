@@ -4,11 +4,11 @@
   "description": "kyunni 기술 블로그",
   "main": "index.js",
   "dependencies": {
-    "grunt": "^1.1.0",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-uglify": "^4.0.1"
   },
   "devDependencies": {
+    "grunt": "^1.2.0",
     "grunt-contrib-jshint": "^2.1.0"
   },
   "scripts": {
