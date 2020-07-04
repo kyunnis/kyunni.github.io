@@ -23,7 +23,7 @@ twitter_username: kyunni
 github_username: kyunni
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
