@@ -26,6 +26,7 @@ github_username: kyunni
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 comments: true
 # Exclude from processing.
